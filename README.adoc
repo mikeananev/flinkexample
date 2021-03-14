@@ -15,7 +15,7 @@ Before using this example you need to install project prerequisites (see below).
 
 Also, if you plan to use local cluster then download and unpack {apache-flink} to project folder 
 
-Run Clojure example in embedded mode by command:
+To run Clojure example in embedded mode use command:
 
 [source, bash]
 ----
@@ -168,7 +168,7 @@ List of available `just` commands:
 
 === License
 
-Copyright © 2021 mike +
+Copyright © 2021 Mike Ananev +
 Distributed under the Eclipse Public License 2.0 or (at your option) any later version.
 
 
